@@ -1,0 +1,28 @@
+.course-card {
+  display: flex;
+  width: 50%;
+  box-shadow: 0px 4px 16px 0px #bfbfbfbf;
+  border-radius: 10px;
+}
+.course-image {
+  height: 350px;
+}
+.course-item-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 80px;
+}
+.content-container {
+  padding: 20px;
+}
+.course-name {
+  color: #1e293b;
+  font-family: 'roboto';
+}
+.description {
+  color: #475569;
+  font-family: 'roboto';
+  margin-top: 18px;
+  margin-left: 10px;
+}
